@@ -1,4 +1,4 @@
-package JavaApplication1;
+package sensor;
 
 import java.io.BufferedReader;
 import java.io.IOException;
